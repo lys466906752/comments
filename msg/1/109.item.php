@@ -1,0 +1,5 @@
+<?php
+	//auth:recson
+	//updateTime:2018-04-24 13:16:14
+	$lists="[[{\"id\":\"2018042413161498095500\",\"nickname\":\"\\u5468\\u5c0f\\u745c\",\"time\":1524546974,\"showText\":\"\\u6211\\u4e2a\\u4eba\\u611f\\u89c9\\u633a\\u4e0d\\u9519\\uff0c\\u53cd\\u6b63\\u662f\\u80fd\\u6cbb\\u597d\\u6211\\u7684\\u75c5\\u7684\\u533b\\u9662\\u6211\\u5c31\\u8ba4\\u53ef\\u3002\\u6211\\u60a3\\u5931\\u7720\\u5f88\\u4e45\\u4e86\\uff0c\\u80fd\\u6cbb\\u597d\\uff0c\\u6211\\u89c9\\u5f97\\u5c31\\u662f\\u597d\\u533b\\u9662\\uff0c\\u503c\\u5f97\\u8ba4\\u53ef\\u7684\\u533b\\u9662\\u3002\",\"yousText\":\"\\u8fd8\\u4e0d\\u9519\\uff0c\\u53ef\\u4ee5\\u53bb\\u770b\\u770b\"}]]";
+?>
